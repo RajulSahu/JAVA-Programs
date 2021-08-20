@@ -1,6 +1,6 @@
 package com.rajul;
 
-public class Main {
+public class ArrayBasic {
 
     public static void main(String[] args) {
         // Q: Store a roll number
